@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+/* 
+html,
+body {
+  height: 100%;
+  margin: auto;
+  padding: 1vw 1vw 1vw 1.8vw;
+align-items: center;
+  justify-content: center;
+background-color:cadetblue;
+
+
+} */
+.main{
+
+    height: 32rem;
+    width:20rem;
+
+    background-color:grey;
+border-radius: 1rem;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+}
+
+.safear{
+
+
+    height: 95%;
+    width:90%;
+   
+
+    background-color:black;
+border-radius: 1rem;
+    
+}
+.name{
+
+
+    color: white;
+    font-size: 2rem;
+    font-style: bold;
+    margin:0.8rem 0 1rem 6.6rem ;
+    color: #fff;
+
+    
+}
+.container{
+
+
+    height:3.5rem;
+    width: 17.5rem;
+    background-color: #fff;
+    border-radius: 0.3rem;
+    margin: 0 0.3rem 0 0.3rem; 
+font-size: 1rem;
+    display: flex;
+font-weight: 800;
+    padding: 0.85rem;
+    justify-content: space-evenly;
+
+   text-decoration: none;
+}
+
+
+a{
+
+    text-decoration: none;
+    color: black;
+}
+
+.home{
+    
+   font-size: 20px; 
+   text-decoration: underline;
+}
+.alert{
+
+    font-size: 20px;
+}
+
+.class:active{
+    background-color: black;
+    color: #fff;
+}
+/*
+.sos{
+
+    margin:0.7rem 0 0 7.2rem ;
+}*/
+
+
+.gm-style-iw-t{
+
+color:green;
+font-size: 10px;
+font-family: 50;
+}
+input:hover{
+  opacity: 0.5;
+}
+.admin_details{
+
+
+   
+        padding-top: 1.87rem;
+        background:rgba(137, 137, 137, 0.93);
+    border-radius: 0.85rem;
+    color:black;
+    width: 16.87rem;
+    height: 19rem;
+    margin-left: 0.625rem;
+    margin-top: 2.125rem;
+   
+    font-family:'Courier New', Courier, monospace;
+   
+    
+}
+.name1{
+
+
+    margin: 0rem;
+    padding: 0;
+
+   
+    width: 16.87;
+    height: 3.5rem;
+
+  
+
+    
+background-color: #ffffff8b;
+    color: black;
+    font-weight: 1000;
+
+   
+
+}
+
+.Report{
+
+
+    color: black;
+
+    margin: 1rem 0 0 1rem;
+    font-weight: 1000;
+    text-decoration: bold;
+
+
+
+}
+
